@@ -1,8 +1,8 @@
 ### Hi there 👋 
 ### This is RASHAD MUNTAR!
 
-[![Github](https://github.com/Rashad-Muntar)
-[![Linkedin](https://www.linkedin.com/in/rashad-muntar-70a55b1b0/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Rashad-Muntar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rashad-muntar-70a55b1b0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muntartoure@gmail.com)
 
 Welcome to my Github page! I am RASHAD and I am have Bachelor's degree in INFORMATION TECHNOLOGY from University of Education Winneba Ghana!  
