@@ -8,7 +8,7 @@
 Welcome to my Github page! I am RASHAD and I am have Bachelor's degree in INFORMATION TECHNOLOGY from University of Education Winneba Ghana!  
 
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://www.explore-group.com/storage/images/interruptions2.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
 - Enrolled in Microverse online Software Engineering Course  
