@@ -12,7 +12,8 @@ Welcome to my Github page! I am RASHAD and I currently pursuing my Bachelor's de
 
 #### 🌱 Things I am currently working on: 
 - Enrolled in Microverse online Software Engineering Course  
-- Taking online courses about Data Science and Machine Learning 
+- Taking online courses about Data Science and Machine Learning
+- Pursuing my Bachelor's degree in Information Technology from University of Education Winneba Ghana
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
