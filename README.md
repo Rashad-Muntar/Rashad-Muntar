@@ -10,7 +10,6 @@ Welcome to my Github page! I am RASHAD and I currently pursuing my Bachelor's de
 
 <img align="right" alt="img" src="https://www.explore-group.com/storage/images/interruptions2.jpg" width="50%" height="auto" />
 
-[WayneChang65](https://github.com/WayneChang65)| ![github stats](https://github-readme-stats.vercel.app/api?username=WayneChang65&show_icons=true&line_height=30)
 
 #### 🌱 Things I am currently working on: 
 - Enrolled in Microverse online Software Engineering Course  
@@ -26,7 +25,6 @@ Welcome to my Github page! I am RASHAD and I currently pursuing my Bachelor's de
 #### :computer: Programming languages and tools: 
 <p>
 	
-[bear]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=bear
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
