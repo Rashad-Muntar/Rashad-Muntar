@@ -10,6 +10,8 @@ Welcome to my Github page! I am RASHAD and I currently pursuing my Bachelor's de
 
 <img align="right" alt="img" src="https://www.explore-group.com/storage/images/interruptions2.jpg" width="50%" height="auto" />
 
+[WayneChang65](https://github.com/WayneChang65)| ![github stats](https://github-readme-stats.vercel.app/api?username=WayneChang65&show_icons=true&line_height=30)
+
 #### 🌱 Things I am currently working on: 
 - Enrolled in Microverse online Software Engineering Course  
 - Taking online courses about Data Science and Machine Learning
