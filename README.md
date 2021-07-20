@@ -5,19 +5,19 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rashad-muntar-70a55b1b0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muntartoure@gmail.com)
 
-Welcome to my Github page! I am RASHAD and I currently pursuing my Bachelor's degree in INFORMATION TECHNOLOGY from University of Education Winneba Ghana!  
+Welcome to my Github page! I am RASHAD and I am currently pursuing my Bachelor's degree in INFORMATION TECHNOLOGY from University of Education Winneba Ghana!  
 
 
 <img align="right" alt="img" src="https://www.explore-group.com/storage/images/interruptions2.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Enrolled in Microverse online Software Engineering Course  
-- Taking online courses about Data Science and Machine Learning
+- Enrolled in Microverse's online Software Engineering Course  
+- Taking an online courses about Data Science and Machine Learning
 - Pursuing my Bachelor's degree in Information Technology from University of Education Winneba Ghana
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
+- Waking up very early to make good use of the day
 - Coding at least 4 hours a day
 - Exercising 3 days a week
 - Improving my CV with some education apart from university
