@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rashad-muntar-70a55b1b0/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:muntartoure@gmail.com)
 
-Welcome to my Github page!. I am RASHAD and I am currently pursuing my Bachelor's degree in Information Technology from University of Education Winneba Ghana(part-time/weekend only)!  
+Welcome to my Github page!. I am RASHAD with a Bachelor's degree in Information Technology from the University of Education Winneba, Ghana(part-time/weekend only)!  
 
 
 <img align="right" alt="img" src="https://www.explore-group.com/storage/images/interruptions2.jpg" width="50%" height="auto" />
